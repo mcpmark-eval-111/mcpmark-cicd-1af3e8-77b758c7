@@ -1,18 +1,19 @@
 ---
-name: Maintenance Task
-about: Standard maintenance, housekeeping, or refactoring.
-title: "Maintenance: [Brief description of the task]"
-labels: ["maintenance", "needs-triage"]
-assignees: []
+name: Maintenance report
+about: Report a maintenance or housekeeping task
+title: 'Maintenance: [Title]'
+labels: 'needs-triage'
+assignees: ''
 ---
 
-## Maintenance Description
-A clear and concise description of the maintenance or housekeeping task.
+**Describe the maintenance task**
+A clear and concise description of the maintenance or housekeeping task that needs to be performed.
 
-## Motivation & Rationale
-Why is this maintenance required now? What are the benefits?
+**Why is this necessary?**
+Explain the benefits of performing this task (e.g. performance, readability, security, etc.).
 
-## Task Checklist
-- [ ] Research/Planning
-- [ ] Implementation
-- [ ] Testing & Verification
+**Implementation Plan**
+Describe the proposed changes or steps to complete the task.
+
+**Additional context**
+Add any other context about the maintenance task here.
